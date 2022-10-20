@@ -13,7 +13,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    align-content: stretch;
+    align-content: flex-start;
     align-items: flex-start;
     gap: 0px;
     max-width: 100vw;
