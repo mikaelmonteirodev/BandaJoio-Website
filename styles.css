@@ -22,11 +22,11 @@ body {
   }
   
 .gallery img {
-    max-width: 24.9%;
+    max-width: 24%;
     object-fit: cover;    
   }
   
 .gallery::after {
     content: "";
-    max-width: 24.9%;
+    max-width: 24%;
   }
