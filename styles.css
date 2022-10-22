@@ -22,7 +22,7 @@ body {
   }
   
 .gallery img {
-    width: 275px;
+    width: 280px;
     min-width: 150px;
     object-fit: cover;    
   }
